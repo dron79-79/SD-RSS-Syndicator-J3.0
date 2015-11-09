@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:yandex="http://news.yandex.ru" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+		    <channel>
+        <title>Яндекс</title>
+        <link>http://joomla30.local/</link>
+        <description>описалово</description>
+        <item>
+            <title>материал</title>
+            <link>http://joomla30.local/index.php/8-catalog/2-material</link>
+            <description>текст
+</description>
+            <author>Super User</author>
+            <yandex:genre>article</yandex:genre>
+            <category>Категория 1</category>
+            <pubDate>Thu, 28 Mar 2013 12:17:13 +0400</pubDate>
+            <enclosure url="http://joomla30.local/images/powered_by.png" type="image/png"/>
+				<yandex:full-text>&lt;p&gt;текст&lt;/p&gt;
+
+&lt;p&gt;полный текст </yandex:full-text>
+        </item>
+        <item>
+            <title>Getting Started</title>
+            <link>http://joomla30.local/</link>
+            <description>It's easy to get started creating your website. Knowing some of the basics will help.
+</description>
+            <author>Super User</author>
+            <yandex:genre>article</yandex:genre>
+            <category>Uncategorised</category>
+            <pubDate>Sat, 01 Jan 2011 14:01:00 +0400</pubDate>
+            <enclosure url="http://joomla30.local/images/sampledata/fruitshop/apple.jpg" type="image/jpeg"/>
+            <yandex:related>
+            <link url="http://docs.joomla.org">Joomla! documentation site</link>
+            <link url="http://forum.joomla.org"> Joomla! forums</link>
+            </yandex:related>
+				<yandex:full-text>&lt;p&gt;It's easy to get started creating your website. Knowing some of the basics will help.&lt;/p&gt;
+
+&lt;p&gt; &lt;/p&gt;
+What is a Content Management System?
+&lt;p&gt;A content management system is software that allows you to create and manage webpages easily by separating the creation of your content from the mechanics required to present it on the web.&lt;/p&gt;
+&lt;p&gt;In this site, the content is stored in a database. The look and feel are created by a template. The Joomla! software brings together the template and the content to create web pages.&lt;/p&gt;
+Site and Administrator
+&lt;p&gt;Your site actually has two separate sites. The site (also called the front end) is what visitors to your site will see. The administrator (also called the back end) is only used by people managing your site. You can access the administrator by clicking the &quot;Site Administrator&quot; link on the &quot;User Menu&quot; menu (visible once you login) or by adding /administrator to the end of your domain name.&lt;/p&gt;
+&lt;p&gt;Log in to the administrator using the username and password created during the installation of Joomla.&lt;/p&gt;
+Logging in
+&lt;p&gt;To login to the front end of your site use the login form. Use the user name and password that were created as part of the installation process. Once logged-in you will be able to create and edit articles.&lt;/p&gt;
+&lt;p&gt;In managing your site, you will be able to create content that only logged-in users are able to see.&lt;/p&gt;
+Creating an article
+&lt;p&gt;Once you are logged-in, a new menu will be visible. To create a new article, click on the &quot;Submit Article&quot; link on that menu.&lt;/p&gt;
+&lt;p&gt;The new article interface gives you a lot of options, but all you need to do is add a title and put something in the content area. To make it easy to find, set the state to published.&lt;/p&gt;
+You can edit an existing article by clicking on the edit icon (this only displays to users who have the right to edit).
+Template and modules
+&lt;p&gt;The look and feel of your site is controlled by a template. You can change the site name, background colour, highlights colour and more by editing the template options. In the administrator go to the Template Styles and click on My Default Template (Protostar). Most changes will be made on the Options tab.&lt;/p&gt;
+&lt;p&gt;The boxes around the main content of the site are called modules. You can change the image at the top of the page by editing the Image Module module in the Module Manager.&lt;/p&gt;
+Learn more
+&lt;p&gt;There is much more to learn about how to use Joomla! to create the web site you envision. You can learn much more at the Joomla! documentation site and on the Joomla! forums.&lt;/p&gt;
+&lt;p&gt;</yandex:full-text>
+        </item>
+    </channel>
+</rss>

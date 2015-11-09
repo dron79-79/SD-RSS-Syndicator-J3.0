@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extension type="component" version="2.5" method="upgrade">
+  <name>SD RSS Syndicator</name>
+  <creationDate>2012/13/06</creationDate>
+  <author>Andrey Dashko</author>
+  <authorEmail>dron79-79@yandex.ru</authorEmail>
+  <authorUrl>http://www.sdaprel.ru</authorUrl>
+  <copyright>sdaprel.ru</copyright>
+  <license>GNU/GPL http://www.gnu.org/copyleft/gpl.html</license>
+  <version>2.5.0.k2</version>
+  <description>Create RSS Syndicator К2 for yandex.ru</description>  
+  	<install>
+		<sql>
+			<file charset="utf8" driver="mysql" folder="">sql/install.sql</file>
+			<file charset="utf8" driver="mysqli" folder="">sql/install.sql</file>
+		</sql>
+	</install>
+	<uninstall>
+		<sql>
+			<file driver="mysql" charset="utf8">sql/uninstall.sql</file>
+			<file driver="mysqli" charset="utf8">sql/uninstall.sql</file>
+		</sql>
+	</uninstall>
+	<update> <!-- Runs on update; New in 2.5 -->
+		<schemas>
+			<schemapath type="mysql">sql/updates/mysql</schemapath>
+		</schemas>
+	</update>
+  <files folder="site">
+  	<filename>index.html</filename>
+    <filename>sdrsssyndicator.php</filename>
+	<folder>assets</folder>		
+	<folder>controllers</folder>	
+	<folder>feed</folder>	
+	<folder>models</folder>
+	<folder>views</folder>	
+  </files>  	
+  <administration>
+     <menu img="components/com_sdrsssyndicator/assets/images/sdfeedicon.png">SD-RSS-SYNDICATOR</menu>
+    	<submenu>
+       		<menu task="info">DESCRIPTION</menu>
+      		<menu task="feeds">FEEDS</menu>
+      		<menu task="buttonmaker">BUTTONMAKER</menu>
+      		<menu task="config">CONFIG</menu>
+	    </submenu>
+	  <languages folder="admin/language">
+			<language tag="en-GB">en-GB.com_sdrsssyndicator.ini</language>
+			<language tag="en-GB">en-GB.com_sdrsssyndicator.sys.ini</language>
+			<language tag="ru-RU">ru-RU.com_sdrsssyndicator.ini</language>
+			<language tag="ru-RU">ru-RU.com_sdrsssyndicator.sys.ini</language>
+	  </languages>
+      <files folder="admin">     
+      		<filename>index.html</filename>
+      		<filename>sdrsssyndicator.php</filename>	
+      		<folder>controllers</folder>	
+      		<folder>models</folder>
+			<folder>helpers</folder>
+      		<folder>assets</folder>
+			<folder>sql</folder>
+      	  <folder>views</folder>	
+      </files>
+  </administration>  
+  
+</extension>

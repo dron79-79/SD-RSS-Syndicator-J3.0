@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="FeedCreator 1.8.0-dev (info@mypapit.net)" -->
+<opml xmlns:opml="http://www.opml.org/spec2" version="1.0">
+    <head>
+        <title>rss1</title>
+    </head>
+    <body>
+    <outline type="rss"  title="Умный поиск" text="Умный поиск" url="http://joomla.local/index.php/using-joomla/extensions/modules/utility-modules/smart-search" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Хребет Ормистон" text="Хребет Ормистон" url="http://joomla.local/index.php/image-gallery/scenery/65-ormiston-pound" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Тропический лес Blue Mountain" text="Тропический лес Blue Mountain" url="http://joomla.local/index.php/image-gallery/scenery/64-blue-mountain-rain-forest" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Модуль - Путь на сайте" text="Модуль - Путь на сайте" url="http://joomla.local/index.php/using-joomla/extensions/modules/navigation-modules/breadcrumbs" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Модуль - Обёртка (Wrapper)" text="Модуль - Обёртка (Wrapper)" url="http://joomla.local/index.php/using-joomla/extensions/modules/utility-modules/wrapper" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Бородатая акула" text="Бородатая акула" url="http://joomla.local/index.php/image-gallery/animals/57-wobbegone" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Joomla! в действии" text="Joomla! в действии" url="http://joomla.local/index.php/using-joomla" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Для опытных" text="Для опытных" url="http://joomla.local/index.php/using-joomla/extensions/components/content-component/article-category-list/50-upgraders" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Проект Joomla!" text="Проект Joomla!" url="http://joomla.local/index.php/the-joomla-project" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Сообщество пользователей Joomla!" text="Сообщество пользователей Joomla!" url="http://joomla.local/index.php/the-joomla-community" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Умный поиск" text="Умный поиск" url="http://joomla.local/index.php/component/k2/item/70-умный-поиск" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Быстрый доступ" text="Быстрый доступ" url="http://joomla.local/index.php/bystr" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Капча" text="Капча" url="http://joomla.local/index.php/component/k2/item/68-капча" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Что нового в версии 1.5?" text="Что нового в версии 1.5?" url="http://joomla.local/index.php/component/k2/item/67-что-нового-в-версии-15?" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Модуль - Новые Пользователи" text="Модуль - Новые Пользователи" url="http://joomla.local/index.php/component/k2/item/66-модуль-новые-пользователи" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Хребет Ормистон" text="Хребет Ормистон" url="http://joomla.local/index.php/component/k2/item/65-хребет-ормистон" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Тропический лес Blue Mountain" text="Тропический лес Blue Mountain" url="http://joomla.local/index.php/component/k2/item/64-тропический-лес-blue-mountain" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Контент" text="Контент" url="http://joomla.local/index.php/component/k2/item/62-контент" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Модуль - Путь на сайте" text="Модуль - Путь на сайте" url="http://joomla.local/index.php/component/k2/item/61-модуль-путь-на-сайте" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    <outline type="rss"  title="Ленты новостей" text="Ленты новостей" url="http://joomla.local/index.php/component/k2/item/60-ленты-новостей" xmlUrl="http://joomla.local/index.php?option=com_sdrsssyndicator&amp;feed_id=2&amp;format=raw" />
+    </body>
+</opml>
